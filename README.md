@@ -8,7 +8,7 @@ Indie game with voxels, game in develop
 ##### - Alejandro Diaz
 
 ### Character & Scenario Design
-##### - Valeria Chanlli
+##### - Valeria Chanllio
 
 ### Story Design
 ##### - David Jimenez
